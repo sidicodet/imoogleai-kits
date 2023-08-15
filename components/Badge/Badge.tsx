@@ -9,7 +9,7 @@ export function Badge({
   return (
     <a
       className={clsx(className, styles.badge)}
-      href="https://liveblocks.io"
+      href="https://imoogleai.xyz"
       rel="noreferrer"
       target="_blank"
       {...props}
@@ -21,7 +21,7 @@ export function Badge({
         />
         <img
           src="https://liveblocks.io/badge-light.svg"
-          alt="Made with Liveblocks"
+          alt="Made with Imoai"
           className={styles.image}
         />
       </picture>
